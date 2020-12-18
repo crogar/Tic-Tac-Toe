@@ -1,0 +1,19 @@
+table, th, td {
+  border: 5px solid black;
+  font-size: 100px;
+}
+td, th {
+  width: 150px;
+  height: 150px;
+  text-align: center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* .container{
+
+  border: 2px solid black;
+} */
